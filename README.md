@@ -10,7 +10,7 @@ To use **koi** to its fullest extent from the start the following should be run 
 
 #### local installation
 
-**koi** can be downloaded from [reimeika.ca](https://www.reimeika.ca/pages/software-downloads/koi.zip). Unzip the file `koi.zip` and type `cd koi`. The file `config.py` contains detailed explanations of all configuration options and should be reviewed. In particular `session_cookie_sig` **must** be set. Once this is done, running `./koi.py` will make this tutorial accessible at `http://localhost:8080`.
+**koi** can be downloaded from [reimeika.ca](https://www.reimeika.ca/pages/software-downloads/koi.zip) or from this repo (the `koi.zip` provides a convenient way to do this). Unzip the file `koi.zip` and type `cd koi`. The file `config.py` contains detailed explanations of all configuration options and should be reviewed. In particular `session_cookie_sig` **must** be set. Once this is done, running `./koi.py` will make this tutorial accessible at `http://localhost:8080`.
 
 #### serving files
 
